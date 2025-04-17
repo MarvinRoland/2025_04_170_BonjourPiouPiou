@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4353175004600939262}
   m_Layer: 0
-  m_Name: ROLAND_MARVIN
+  m_Name: ROOT_ROLAND_MARVIN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
