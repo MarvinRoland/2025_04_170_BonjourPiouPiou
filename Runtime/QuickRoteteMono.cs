@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Events;
 
 namespace Roland.QuickScrpit { 
 public class QuickRoteteMono : MonoBehaviour
